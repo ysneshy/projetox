@@ -482,3 +482,4 @@ _[Clique aqui para acessar a lista de questões.](URI/1%20-%20Iniciante/0%20-%20
 * [11984 - A Change In A Thermal Unit](UVA/Contest%20Volumes/11984.pdf) => [Código](UVA/Contest%20Volumes/11984.c)
 # projetogit
 # projetogit
+# projetox
